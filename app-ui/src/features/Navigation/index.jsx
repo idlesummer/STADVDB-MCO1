@@ -3,10 +3,9 @@ import Toolbar from '@mui/material/Toolbar';
 
 export default function Navigation() {
   return (
-    <AppBar elevation={1} position="sticky">
+    <AppBar elevation={1} position="fixed" open={true}>
       <Toolbar>
-        <span>Logo</span>
-        <span>Logo</span>
+        LogoLogoLogoLogoLogoLogoLogoLogoLogoLogoLogoLogoLogoLogo
       </Toolbar>
     </AppBar>
   );
