@@ -26,6 +26,4 @@ export default function Navigation() {
       </Toolbar>
     </AppBar>
   );
-
-  
 }
